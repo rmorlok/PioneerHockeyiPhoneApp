@@ -1,0 +1,504 @@
+// !$*UTF8*$!
+{
+	1B06CC3D1193CAA000945951 /* HMHockey Distribution */ = {
+		activeExec = 0;
+		executables = (
+			1B06CC591193CAA000945951 /* HMHockey Distribution */,
+		);
+	};
+	1B06CC591193CAA000945951 /* HMHockey Distribution */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "HMHockey Distribution";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1B06CC671193CC8D00945951 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1BB6F8FE11792D0500764FF8 /* DataLoader.h */;
+		name = "DataLoader.h: 11";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	1B06CC8C1193CD5300945951 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 1B06CC651193CC5200945951 /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"get-task-allow",
+		);
+		name = "/Users/ryanmorlok/Dropbox/ryanroot/ryan-projects/Development/PioneerHockey/Entitlements.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	1B06CCA21193D12F00945951 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1BB6F7BF1173956700764FF8 /* Icon.png */;
+	};
+	1B06CCA31193D12F00945951 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PioneerHockey-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/ryanmorlok/Dropbox/ryanroot/ryan-projects/Development/PioneerHockey/PioneerHockey-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	1B06CCA51193D12F00945951 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 158";
+		rLen = 0;
+		rLoc = 4568;
+		rType = 0;
+		vrLen = 1472;
+		vrLoc = 4050;
+	};
+	1B06CCA81193D12F00945951 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PioneerHockey-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarStyle,
+		);
+		name = "/Users/ryanmorlok/Dropbox/ryanroot/ryan-projects/Development/PioneerHockey/PioneerHockey-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	1B06CCA91193D12F00945951 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 46";
+		rLen = 0;
+		rLoc = 1294;
+		rType = 0;
+		vrLen = 1751;
+		vrLoc = 1294;
+	};
+	1B32791A1251909300819907 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 158";
+		rLen = 0;
+		rLoc = 4568;
+		rType = 0;
+		vrLen = 1464;
+		vrLoc = 4050;
+	};
+	1B32791B1251909300819907 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 46";
+		rLen = 0;
+		rLoc = 1294;
+		rType = 0;
+		vrLen = 1719;
+		vrLoc = 1294;
+	};
+	1B32791C1251909300819907 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PioneerHockey-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarStyle,
+		);
+		name = "/Users/ryanmorlok/Dropbox/ryanroot/ryan-projects/Development/PioneerHockey/PioneerHockey-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	1B8A704511926C1500037958 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 27";
+		rLen = 0;
+		rLoc = 710;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 0;
+	};
+	1BB6F7AD1173880E00764FF8 /* HMHockey Dev */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "HMHockey Dev";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	1BB6F7B71173883000764FF8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1BB6F7B81173883000764FF8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1BB6F7CD11739F0C00764FF8 /* MTIBulbView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1226, 816}}";
+			sepNavSelRange = "{622, 0}";
+			sepNavVisRange = "{0, 1245}";
+			sepNavWindowFrame = "{{2120, 39}, {1285, 944}}";
+		};
+	};
+	1BB6F7CE11739F0C00764FF8 /* MTIBulbView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1125, 11310}}";
+			sepNavSelRange = "{28357, 0}";
+			sepNavVisRange = "{28128, 919}";
+			sepNavWindowFrame = "{{288, 114}, {1285, 944}}";
+		};
+	};
+	1BB6F8FE11792D0500764FF8 /* DataLoader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 439}}";
+			sepNavSelRange = "{247, 0}";
+			sepNavVisRange = "{0, 446}";
+		};
+	};
+	1BB6F8FF11792D0500764FF8 /* DataLoader.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1096, 1430}}";
+			sepNavSelRange = "{2367, 0}";
+			sepNavVisRange = "{1492, 953}";
+			sepNavWindowFrame = "{{342, 114}, {1285, 944}}";
+		};
+	};
+	1BB6F91C1179685E00764FF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1BB6F7CE11739F0C00764FF8 /* MTIBulbView.m */;
+		name = "MTIBulbView.m: 698";
+		rLen = 0;
+		rLoc = 28357;
+		rType = 0;
+		vrLen = 919;
+		vrLoc = 28128;
+	};
+	1BB6F91D1179685E00764FF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1BB6F7CD11739F0C00764FF8 /* MTIBulbView.h */;
+		name = "MTIBulbView.h: 16";
+		rLen = 0;
+		rLoc = 622;
+		rType = 0;
+		vrLen = 635;
+		vrLoc = 610;
+	};
+	1BB8000411910B6100C73728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	1BB8000C11910BFA00C73728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 20";
+		rLen = 32;
+		rLoc = 425;
+		rType = 0;
+		vrLen = 591;
+		vrLoc = 0;
+	};
+	1BB800301191108500C73728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PioneerHockeyAppDelegate.h */;
+		name = "PioneerHockeyAppDelegate.h: 15";
+		rLen = 18;
+		rLoc = 331;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	1BB800471191120D00C73728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PioneerHockeyAppDelegate.m */;
+		name = "PioneerHockeyAppDelegate.m: 34";
+		rLen = 0;
+		rLoc = 848;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 196;
+	};
+	1BB8FDB71182A46B00C73728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* PioneerHockey_Prefix.pch */;
+		name = "PioneerHockey_Prefix.pch: 14";
+		rLen = 0;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	1BB8FFC5118FC8E900C73728 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 29";
+		rLen = 0;
+		rLoc = 536;
+		rType = 0;
+		vrLen = 728;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* PioneerHockeyAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 409}}";
+			sepNavSelRange = "{331, 18}";
+			sepNavVisRange = "{0, 488}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PioneerHockeyAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 572}}";
+			sepNavSelRange = "{848, 0}";
+			sepNavVisRange = "{196, 790}";
+			sepNavWindowFrame = "{{431, 114}, {1285, 944}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HMHockey Dev */ = {
+		activeExec = 0;
+		executables = (
+			1BB6F7AD1173880E00764FF8 /* HMHockey Dev */,
+		);
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 448}}";
+			sepNavSelRange = "{710, 0}";
+			sepNavVisRange = "{0, 727}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1226, 3198}}";
+			sepNavSelRange = "{1294, 0}";
+			sepNavVisRange = "{1294, 1719}";
+			sepNavWindowFrame = "{{154, 114}, {1285, 944}}";
+		};
+	};
+	289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 409}}";
+			sepNavSelRange = "{425, 32}";
+			sepNavVisRange = "{0, 591}";
+			sepNavWindowFrame = "{{38, 88}, {1285, 944}}";
+		};
+	};
+	289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 767}}";
+			sepNavSelRange = "{536, 0}";
+			sepNavVisRange = "{0, 728}";
+			sepNavWindowFrame = "{{61, 67}, {1285, 944}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 1BB6F7AD1173880E00764FF8 /* HMHockey Dev */;
+		activeSDKPreference = iphoneos3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HMHockey Dev */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* HMHockey Dev */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 1BB6F7B81173883000764FF8 /* Code sense */;
+		executables = (
+			1BB6F7AD1173880E00764FF8 /* HMHockey Dev */,
+			1B06CC591193CAA000945951 /* HMHockey Distribution */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					1017,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1129,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1089,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307322055;
+			PBXWorkspaceStateSaveDate = 307322055;
+		};
+		perUserProjectItems = {
+			1B06CC671193CC8D00945951 /* PBXTextBookmark */ = 1B06CC671193CC8D00945951 /* PBXTextBookmark */;
+			1B06CC8C1193CD5300945951 /* PlistBookmark */ = 1B06CC8C1193CD5300945951 /* PlistBookmark */;
+			1B06CCA21193D12F00945951 /* PBXBookmark */ = 1B06CCA21193D12F00945951 /* PBXBookmark */;
+			1B06CCA31193D12F00945951 /* PlistBookmark */ = 1B06CCA31193D12F00945951 /* PlistBookmark */;
+			1B06CCA51193D12F00945951 /* PBXTextBookmark */ = 1B06CCA51193D12F00945951 /* PBXTextBookmark */;
+			1B06CCA81193D12F00945951 /* PlistBookmark */ = 1B06CCA81193D12F00945951 /* PlistBookmark */;
+			1B06CCA91193D12F00945951 /* PBXTextBookmark */ = 1B06CCA91193D12F00945951 /* PBXTextBookmark */;
+			1B32791A1251909300819907 /* PBXTextBookmark */ = 1B32791A1251909300819907 /* PBXTextBookmark */;
+			1B32791B1251909300819907 /* PBXTextBookmark */ = 1B32791B1251909300819907 /* PBXTextBookmark */;
+			1B32791C1251909300819907 /* PlistBookmark */ = 1B32791C1251909300819907 /* PlistBookmark */;
+			1B8A704511926C1500037958 /* PBXTextBookmark */ = 1B8A704511926C1500037958 /* PBXTextBookmark */;
+			1BB6F91C1179685E00764FF8 /* PBXTextBookmark */ = 1BB6F91C1179685E00764FF8 /* PBXTextBookmark */;
+			1BB6F91D1179685E00764FF8 /* PBXTextBookmark */ = 1BB6F91D1179685E00764FF8 /* PBXTextBookmark */;
+			1BB8000411910B6100C73728 /* PBXTextBookmark */ = 1BB8000411910B6100C73728 /* PBXTextBookmark */;
+			1BB8000C11910BFA00C73728 /* PBXTextBookmark */ = 1BB8000C11910BFA00C73728 /* PBXTextBookmark */;
+			1BB800301191108500C73728 /* PBXTextBookmark */ = 1BB800301191108500C73728 /* PBXTextBookmark */;
+			1BB800471191120D00C73728 /* PBXTextBookmark */ = 1BB800471191120D00C73728 /* PBXTextBookmark */;
+			1BB8FDB71182A46B00C73728 /* PBXTextBookmark */ = 1BB8FDB71182A46B00C73728 /* PBXTextBookmark */;
+			1BB8FFC5118FC8E900C73728 /* PBXTextBookmark */ = 1BB8FFC5118FC8E900C73728 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1BB6F7B71173883000764FF8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 432}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 368}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* PioneerHockey_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1096, 462}}";
+			sepNavSelRange = "{326, 0}";
+			sepNavVisRange = "{0, 361}";
+		};
+	};
+	8D1107310486CEB800E47090 /* PioneerHockey-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{451, 114}, {1285, 944}}";
+		};
+	};
+}
